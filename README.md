@@ -53,26 +53,26 @@ When I'm not building healthcare systems, I engineer complex logic for side proj
 
 ### Cloud & DevOps
 
-<img height="80" src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,git,vercel,netlify,gcp,azure&theme=dark&perline=8" alt="Cloud & DevOps" />
+<img height="80" src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,git,vercel,netlify,gcp,azure,digitalocean,render,cloudflare&theme=dark&perline=8" alt="Cloud & DevOps" />
 
 ### Tools & Collaboration
 
-<img height="80" src="https://skillicons.dev/icons?i=figma,postman,jira,notion,gitlab,vscode&theme=dark&perline=8" alt="Tools & Collaboration" />
+<img height="80" src="https://skillicons.dev/icons?i=figma,postman,jira,notion,gitlab,bitbucket,trello,vscode&theme=dark&perline=8" alt="Tools & Collaboration" />
 
 ### Also Worked With
 
-<img height="80" src="https://skillicons.dev/icons?i=graphql,socketio,vite,digitalocean,render&theme=dark&perline=8" alt="Also Worked With" />
+<img height="80" src="https://skillicons.dev/icons?i=graphql,socketio,vite,jenkins,webpack&theme=dark&perline=8" alt="Also Worked With" />
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Abdullah-JUTT-cloud&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-JUTT-cloud&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br/>
   <img src="https://streak-stats.demolab.com/?user=Abdullah-JUTT-cloud&theme=dark&hide_border=false" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Abdullah-JUTT-cloud&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-JUTT-cloud&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 ---
