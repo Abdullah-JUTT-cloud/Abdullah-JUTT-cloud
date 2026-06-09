@@ -3,7 +3,7 @@
 <table align="center">
 <tr>
   <td align="center" colspan="3">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Co-Founder+%26+Lead+Engineer+%40+MedAlerto;Full+Stack+Engineer+%7C+Java+%26+Node.js+%26+React;Building+Scalable+Backend+%26+AI+Healthcare+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Turning+Complex+Problems+into+Elegant+Code;Architecting+Systems+That+Scale;Lead+Engineer+%40+MedAlerto" alt="Typing SVG" />
   </td>
 </tr>
 <tr>
@@ -27,17 +27,19 @@
 
 ### Hey, I'm Muhammad Abdullah 👋
 
-_Co-Founder & Lead Engineer @ MedAlerto · Full-Stack Engineer · BS Software Engineering @ UCP_
+_Full-Stack Engineer · BS Software Engineering @ UCP_
 
 <br/>
 
-I am a **Full-Stack Engineer** specializing in **scalable backend systems**, **distributed architecture**, and **AI-powered healthcare solutions**. Currently building AI/ML integrations into production systems for predictive medical analysis at **MedAlerto**.
+I don't just write code—I **orchestrate systems**. While others see databases, APIs, and frontend components, I see **symphonies of data** flowing through distributed architectures. 
 
-I build **microservices** with **Kafka**, **event-driven architecture**, and **cloud-native deployment**. My expertise spans across **Java/Spring Boot**, **Node.js/Express**, **React/Next.js**, and **React Native**. I focus on robust **system architecture** (Microservices, API Gateway, Load Balancing, DB Sharding) and **performance optimization**.
+At **MedAlerto**, I'm building the nervous system of modern healthcare—where AI meets medicine, and every millisecond counts. Think **Kafka streams** pulsing like heartbeats, **microservices** communicating like neurons, and **predictive models** that might just save lives.
 
-When I'm not building healthcare systems, I engineer complex logic for side projects like a **Chess Engine**, **Sudoku Solver**, and **Real-Time Messaging Systems**.
+My playground? **Event-driven architectures** that handle chaos gracefully. My craft? Turning **Java/Spring Boot**, **Node.js**, and **React** into solutions that don't just work—they **sing**.
 
-📍 Based in Lahore, Pakistan
+When not debugging production, you'll find me teaching machines to play chess, solving puzzles that would make your head spin, or building real-time systems that move faster than your morning coffee kicks in.
+
+📍 Lahore, Pakistan · 🌍 Building for the world
 
 <br/>
 
@@ -45,23 +47,19 @@ When I'm not building healthcare systems, I engineer complex logic for side proj
 
 ### Frontend & Mobile
 
-<img height="80" src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,reactnative&theme=dark&perline=8" alt="Frontend & Mobile" />
+<img height="80" src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind&theme=dark&perline=7" alt="Frontend & Mobile" />
 
 ### Backend & Data
 
-<img height="80" src="https://skillicons.dev/icons?i=spring,java,nodejs,express,fastapi,python,mongodb,postgres,mysql,redis,prisma,firebase&theme=dark&perline=8" alt="Backend & Data" />
+<img height="80" src="https://skillicons.dev/icons?i=spring,java,nodejs,express,python,mongodb,postgres,mysql,redis,firebase&theme=dark&perline=7" alt="Backend & Data" />
 
 ### Cloud & DevOps
 
-<img height="80" src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,git,vercel,netlify,gcp,azure,digitalocean,render,cloudflare&theme=dark&perline=8" alt="Cloud & DevOps" />
+<img height="80" src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,vercel,netlify&theme=dark&perline=7" alt="Cloud & DevOps" />
 
-### Tools & Collaboration
+### Tools
 
-<img height="80" src="https://skillicons.dev/icons?i=figma,postman,jira,notion,gitlab,bitbucket,trello,vscode&theme=dark&perline=8" alt="Tools & Collaboration" />
-
-### Also Worked With
-
-<img height="80" src="https://skillicons.dev/icons?i=graphql,socketio,vite,jenkins,webpack&theme=dark&perline=8" alt="Also Worked With" />
+<img height="80" src="https://skillicons.dev/icons?i=figma,postman,notion,vscode&theme=dark&perline=7" alt="Tools" />
 
 ---
 
@@ -77,6 +75,6 @@ When I'm not building healthcare systems, I engineer complex logic for side proj
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:001F54&height=120&section=footer&text=Engineering+Scalable+Healthcare+Solutions&fontColor=E0E0E0&fontSize=20&fontAlignY=40&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:001F54&height=120&section=footer&text=Code+is+Poetry+-+I'm+Just+Writing+Verses&fontColor=E0E0E0&fontSize=20&fontAlignY=40&animation=twinkling" />
 
 [![](https://komarev.com/ghpvc/?username=Abdullah-JUTT-cloud&icon=0&color=0)](https://visitcount.itsvg.in)
