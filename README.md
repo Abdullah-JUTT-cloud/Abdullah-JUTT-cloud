@@ -3,7 +3,7 @@
 <table align="center">
 <tr>
   <td align="center" colspan="3">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Turning+Complex+Problems+into+Elegant+Code;Architecting+Systems+That+Scale;Lead+Engineer+%40+MedAlerto" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Backend+%26+Distributed+Systems+Engineer;Event-Driven+Architecture+%7C+Java+Spring+Boot+%7C+Node.js;Lead+Engineer+%40+MedAlerto" alt="Typing SVG" />
   </td>
 </tr>
 <tr>
@@ -21,60 +21,40 @@
 
 ---
 
-## 👨‍💻 About Me
+## 📌 Engineering Focus
 
-<img align="right" width="130" alt="Octocat waving" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" />
+Software Engineer specializing in **high-throughput backend systems**, **distributed architectures**, and **event-driven microservices**. 
 
-### Hey, I'm Muhammad Abdullah 👋
+- 🚀 **Current Role:** Lead Engineer at **MedAlerto** — Engineering real-time healthcare alert pipeline processing critical patient metrics via Kafka streams and distributed microservices.
+- ⚙️ **Core Expertise:** Designing resilient REST APIs, optimizing asynchronous data pipelines, and managing distributed caching layer strategies for ultra-low latency.
+- 🎓 **Background:** BS Software Engineering @ University of Central Punjab (UCP).
 
-_Full-Stack Engineer · BS Software Engineering @ UCP_
-
-<br/>
-
-I don't just write code—I **orchestrate systems**. While others see databases, APIs, and frontend components, I see **symphonies of data** flowing through distributed architectures. 
-
-At **MedAlerto**, I'm building the nervous system of modern healthcare—where AI meets medicine, and every millisecond counts. Think **Kafka streams** pulsing like heartbeats, **microservices** communicating like neurons, and **predictive models** that might just save lives.
-
-My playground? **Event-driven architectures** that handle chaos gracefully. My craft? Turning **Java/Spring Boot**, **Node.js**, and **React** into solutions that don't just work—they **sing**.
-
-When not debugging production, you'll find me teaching machines to play chess, solving puzzles that would make your head spin, or building real-time systems that move faster than your morning coffee kicks in.
-
-📍 Lahore, Pakistan · 🌍 Building for the world
-
-<br/>
+---
 
 ## 🛠 Tech Stack
 
-### Frontend & Mobile
+**Backend & Systems Architecture**
+<img height="40" src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,redis&theme=dark" alt="Backend" />
 
-<img height="80" src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind&theme=dark&perline=7" alt="Frontend & Mobile" />
+**Databases & Messaging**
+<img height="40" src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,kafka,firebase&theme=dark" alt="Databases" />
 
-### Backend & Data
+**DevOps, Cloud & Infrastructure**
+<img height="40" src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git&theme=dark" alt="Cloud" />
 
-<img height="80" src="https://skillicons.dev/icons?i=spring,java,nodejs,express,python,mongodb,postgres,mysql,redis,firebase&theme=dark&perline=7" alt="Backend & Data" />
-
-### Cloud & DevOps
-
-<img height="80" src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,vercel,netlify&theme=dark&perline=7" alt="Cloud & DevOps" />
-
-### Tools
-
-<img height="80" src="https://skillicons.dev/icons?i=figma,postman,notion,vscode&theme=dark&perline=7" alt="Tools" />
+**Frontend (Secondary)**
+<img height="40" src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind&theme=dark" alt="Frontend" />
 
 ---
 
-## 📊 GitHub Stats
+## ⚙️ Core Technical Highlights
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-JUTT-cloud&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=Abdullah-JUTT-cloud&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-JUTT-cloud&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
+| Focus Area | Technologies | Engineering Priorities |
+| :--- | :--- | :--- |
+| **Event-Driven Microservices** | Java, Spring Boot, Apache Kafka | Fault tolerance, event sourcing, low latency |
+| **Data & Caching** | PostgreSQL, MongoDB, Redis | Schema design, indexing optimization, in-memory caching |
+| **Containerization & Deployment** | Docker, Kubernetes, AWS | Scalability, CI/CD pipelines, system reliability |
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:001F54&height=120&section=footer&text=Code+is+Poetry+-+I'm+Just+Writing+Verses&fontColor=E0E0E0&fontSize=20&fontAlignY=40&animation=twinkling" />
-
-[![](https://komarev.com/ghpvc/?username=Abdullah-JUTT-cloud&icon=0&color=0)](https://visitcount.itsvg.in)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:001F54&height=100&section=footer&text=Building+Reliable+%26+Scalable+Systems&fontColor=E0E0E0&fontSize=18&fontAlignY=40&animation=twinkling" />
