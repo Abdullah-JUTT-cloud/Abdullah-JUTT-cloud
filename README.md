@@ -73,32 +73,14 @@ When not debugging production or tuning SQL indices, you'll find me teaching mac
 
 ---
 
-## 🏆 GitHub Badges & Achievements
+## 📈 GitHub Analytics & Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdullah-JUTT-cloud&theme=tokyonight&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</div>
+  <img src="https://streak-stats.demolab.com/?user=Abdullah-JUTT-cloud&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="90%" />
+  
+  <br/><br/>
 
----
-
-## 📊 GitHub Analytics & Statistics
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-JUTT-cloud&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="175" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-JUTT-cloud&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" height="175" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-JUTT-cloud&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullah-JUTT-cloud&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" width="90%" />
 </div>
 
 ---
