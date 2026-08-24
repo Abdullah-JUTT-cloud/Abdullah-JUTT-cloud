@@ -76,20 +76,11 @@ When not debugging production or tuning SQL indices, you'll find me teaching mac
 ## 📈 GitHub Analytics & Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullah-JUTT-cloud&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" width="100%" />
-
+  <img src="https://streak-stats.demolab.com/?user=Abdullah-JUTT-cloud&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="90%" />
+  
   <br/><br/>
 
-  <table align="center" border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-JUTT-cloud&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-      </td>
-      <td align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-JUTT-cloud&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullah-JUTT-cloud&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" width="90%" />
 </div>
 
 ---
