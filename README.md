@@ -80,12 +80,16 @@ When not debugging production or tuning SQL indices, you'll find me teaching mac
 
   <br/><br/>
 
-  <a href="https://github.com/Abdullah-JUTT-cloud">
-    <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-JUTT-cloud&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
-  </a>
-  <a href="https://github.com/Abdullah-JUTT-cloud">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-JUTT-cloud&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" width="49%" />
-  </a>
+  <table align="center" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-JUTT-cloud&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-JUTT-cloud&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
