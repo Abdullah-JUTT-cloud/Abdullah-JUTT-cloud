@@ -76,19 +76,18 @@ When not debugging production or tuning SQL indices, you'll find me teaching mac
 ## 📈 GitHub Analytics & Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Abdullah-JUTT-cloud&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="90%" />
-  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullah-JUTT-cloud&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+
   <br/><br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullah-JUTT-cloud&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" width="90%" />
-</div>
-
----
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:001F54&height=120&section=footer&text=Code+is+Poetry+-+I'm+Just+Writing+Verses&fontColor=E0E0E0&fontSize=20&fontAlignY=40&animation=twinkling" />
-  
-  <br/>
-  
-  <img src="https://komarev.com/ghpvc/?username=Abdullah-JUTT-cloud&color=00BFFF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-JUTT-cloud&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-JUTT-cloud&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" height="165" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
