@@ -56,7 +56,7 @@ I treat software engineering as an exact, unforgiving science. When I'm not diss
 <div align="center">
 
 <a href="https://github.com/Abdullah-JUTT-cloud">
-  <img src="https://github-readme-stats-expenses1.vercel.app/api?username=Abdullah-JUTT-cloud&show_icons=true&bg_color=0D1117&title_color=00FF41&icon_color=00FFFF&text_color=FFFFFF&hide_border=true&cache_seconds=86400" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-expenses1.vercel.app/api?username=Abdullah-JUTT-cloud&show_icons=true&bg_color=0D1117&title_color=00FF41&icon_color=00FFFF&text_color=FFFFFF&hide_border=true&cache_seconds=86400&v=fix1" height="195" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/Abdullah-JUTT-cloud">
   <img src="https://streak-stats.demolab.com/?user=Abdullah-JUTT-cloud&hide_border=true&background=0D1117&ring=00FFFF&fire=00FF41&currStreakLabel=00FF41&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" height="195" alt="GitHub Streak" />
@@ -65,7 +65,7 @@ I treat software engineering as an exact, unforgiving science. When I'm not diss
 <br><br>
 
 <a href="https://github.com/Abdullah-JUTT-cloud">
-  <img src="https://github-readme-stats-expenses1.vercel.app/api/top-langs/?username=Abdullah-JUTT-cloud&layout=compact&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&hide_border=true&cache_seconds=86400" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats-expenses1.vercel.app/api/top-langs/?username=Abdullah-JUTT-cloud&layout=compact&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&hide_border=true&cache_seconds=86400&v=fix1" height="165" alt="Top Languages" />
 </a>
 
 <br><br>
